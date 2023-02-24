@@ -120,4 +120,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 #STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-STATIC_ROOT = '/var/www/mysite/assets/'
+STATIC_ROOT = '/var/www/webproject/assets/'
